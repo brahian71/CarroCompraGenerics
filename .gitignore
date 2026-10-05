@@ -1,0 +1,9 @@
+# Archivos .class generados al compilar (javac). Nunca deben subirse.
+*.class
+
+# Carpeta de salida de IntelliJ IDEA
+out/
+
+# Configuracion local de IntelliJ IDEA
+.idea/
+*.iml
